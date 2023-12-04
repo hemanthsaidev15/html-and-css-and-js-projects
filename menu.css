@@ -1,0 +1,71 @@
+.box1 {
+    background-image: url("https://img.freepik.com/free-photo/frying-pan-empty-with-various-spices-black-table_1220-561.jpg?w=996&t=st=1692972215~exp=1692972815~hmac=2d09100dccb46b773b801b2b5c78da93eac2bbbf31a96ae65519a6692ce598cf");
+    height: 100vh;
+    background-position: center;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: white transparent;
+    height: 60px;
+    width: 1550px;
+    
+}
+.swiggy {
+    height: 50px;
+    width: 40px;
+   padding: 10 10 50 20;
+}
+.a {
+    text-decoration:underline;
+   color: rgb(221, 221, 229);
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+}
+.img1 {
+    height: 200px;
+    width: 230px;
+
+    
+
+}  
+ul{
+    list-style-type: none;
+}
+.box2{
+   
+    background-color: white;
+    height: 50vh;
+    width: 15vw;
+    align-items: center;
+  display: inline-block;
+  margin-right: 20px;
+  border-radius: 15px;
+  border-color: red;
+  margin-left: 155px;
+  margin-top: 60px;
+
+}
+.button{
+    background-color: orange;
+    color: black;
+    border-radius: 8px;
+}
+.bottom{
+    height: 30vh;
+        width: 94vw;
+    background-color: lightgrey;
+    
+    padding: 35px;
+}

@@ -1,0 +1,15 @@
+.div {
+background-color: black;
+height: 100px;
+width : 100px;
+}
+.div1 {
+    background-color: aliceblue;
+    height: 100px;
+    width: 100px;
+
+}
+.container {
+    display: grid;
+    display: flex;
+}
